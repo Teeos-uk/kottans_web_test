@@ -19,4 +19,6 @@
  * [Screenshot 3]( https://raw.githubusercontent.com/Teeos-uk/kottans_web_test/master/task_1/t-1-2-3.png )
  * [Screenshot 4]( https://raw.githubusercontent.com/Teeos-uk/kottans_web_test/master/task_1/t-1-2-4.png )
  * [Screenshot 5]( https://raw.githubusercontent.com/Teeos-uk/kottans_web_test/master/task_1/t-1-2-5.png )
+3. Networking for web developers
+ * [Screenshot 1]( https://raw.githubusercontent.com/Teeos-uk/kottans_web_test/master/task_1/t-1-3.png )
 
