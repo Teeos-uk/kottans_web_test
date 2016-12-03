@@ -1,5 +1,6 @@
-### kottans_web_test
+## kottans_web_test
 
-![]( https://raw.githubusercontent.com/Teeos-uk/kottans_web_test/master/task_0/git-branching-1.png )
-
-![]( https://raw.githubusercontent.com/Teeos-uk/kottans_web_test/master/task_0/git-branching-2.png )
+### Task_0
+1. Git branching
+ * [Screenshot 1]( https://raw.githubusercontent.com/Teeos-uk/kottans_web_test/master/task_0/git-branching-1.png )
+ * [Screenshot 2]( https://raw.githubusercontent.com/Teeos-uk/kottans_web_test/master/task_0/git-branching-2.png )
